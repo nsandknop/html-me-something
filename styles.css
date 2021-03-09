@@ -1,0 +1,63 @@
+/*body {
+    background-color: grey;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    font-size: 18px;
+  }*/
+
+  html {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(180, 180, 180, .5);
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 80px
+    }
+    
+    ul {
+      font-size: 15px;
+    }
+    title {
+      font: 75% georgia, sans-serif;
+      color: black;
+      font-size: 24px;
+    }
+  
+  body { 
+    font: 85% georgia, sans-serif;
+    line-height: 1.88889;
+    color: #555753; 
+    background: asdf ;
+    margin: 0; 
+    padding: 0;
+    }
+  p { 
+    margin-top: 0; 
+    text-align: justify;
+    font-size: 15px
+    }
+    ant text {
+      justify-content: flex-start; 
+    }
+    ant pic{
+      justify-content: flex-end;
+    }
+  h2 { 
+    font: italic normal 1.4em georgia, sans-serif;
+    letter-spacing: 1px; 
+    margin-bottom: 0; 
+    color: ;
+    }
+    #thai-pic{
+      width: 100px;
+  height: 100px;
+    }
